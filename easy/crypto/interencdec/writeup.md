@@ -1,4 +1,4 @@
-# Step 1: You got the file
+# You got the file
 
 The file contained:
 
@@ -10,7 +10,7 @@ This is **Base64-encoded data** (you could tell because of `=` padding at the en
 
 ------
 
-# Step 2: Decode Base64 once
+# Decode Base64 once
 
 Using **CyberChef** (or dcode.fr) → **“From Base64”** gave:
 
@@ -22,7 +22,7 @@ Notice this is **still Base64** (the output still ends with `=`), just one layer
 
 ------
 
-# Step 3: Decode Base64 a second time
+# Decode Base64 a second time
 
 Take:
 
@@ -40,7 +40,7 @@ wpjvJAM{jhlzhy_k3jy9wa3k_890k2379}
 
 ------
 
-# Step 4: Tools used
+# Tools used
 
 - **dcode.fr**: Great for base64, hex, URL encoding, and classical ciphers.
 - **CyberChef**: Another universal decoding/encoding tool.
