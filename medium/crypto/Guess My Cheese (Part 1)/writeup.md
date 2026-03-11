@@ -1,0 +1,1 @@
+first i search for the cheese types and and encrypt one type in machine and send the result to chagpt to know what is this and the restult is (affine cypher) and tell it to extract a,b coefficient and write in its in this site https://www.dcode.fr/affine-cipher by the target and got the cheese type
