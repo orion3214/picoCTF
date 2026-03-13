@@ -1,27 +1,13 @@
+picoCTF – Easy Web Exploitation Writeups
 
-picoCTF Easy Challenges
+This repository contains my solutions and notes for easy Web Exploitation challenges from picoCTF.
 
-This repository contains my solutions and notes for easy challenges from picoCTF.
-The purpose of this repo is to practice beginner cybersecurity skills and document the learning process while solving Capture The Flag (CTF) problems.
+The goal is to practice basic web security concepts, understand common vulnerabilities, and document the solving process.
 
-📌 About picoCTF
+🌐 About Web Exploitation
 
-picoCTF is a beginner-friendly Capture The Flag competition designed to teach cybersecurity concepts through practical challenges.
+Web Exploitation challenges involve finding vulnerabilities in web applications and using them to retrieve the flag.
 
-Participants solve problems in areas like:
-
-Cryptography
-
-Web Exploitation
-
-Forensics
-
-Reverse Engineering
-
-Binary Exploitation
-
-General Skills
-
-Each challenge reveals a flag in the format:
+Flags usually follow the format:
 
 picoCTF{example_flag}
