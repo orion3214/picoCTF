@@ -56,7 +56,8 @@ The server accepted the request and returned a successful response including the
  "email": "ctf-player@picoctf.org",
  "firstName": "pico",
  "lastName": "player",
- "flag": "picoCTF{brut4_f0rc4_1a386e6f}"
+ "flag": "picoCTF{xxxxxxxxxxxxxxxxxx}"
 }
+
 🚩 Flag
 picoCTF{xxxxxxxxxxxxxxxxxxxxxx}
